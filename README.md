@@ -3,6 +3,7 @@
 
 ### Problem 1 – Time Slot Consolidation Problem Statement
 
+'''
 n = int(input())
 arr = []
 
@@ -22,7 +23,7 @@ for j in range(1, n):
         start = arr[j][0]
         end = arr[j][1]
 
-print(start, end)
+print(start, end) '''
 
 
 
